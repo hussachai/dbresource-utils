@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+.settings/
+hsqldb/
+target/
+.classpath
+.project
+bash.exe.stackdump
